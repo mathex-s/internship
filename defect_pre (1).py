@@ -83,7 +83,4 @@ print(sklearn.__version__)
 # seaborn
 # joblib
 
-ls
 
-from google.colab import files
-files.download("requirements.txt")
