@@ -14,7 +14,6 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 import matplotlib.pyplot as plt
 
 import os
-!pip install streamlit
 import streamlit as st
 
 st.write("Current directory:", os.getcwd())
